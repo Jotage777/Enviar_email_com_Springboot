@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
+
 @RestController
 public class Controler_API {
 	
@@ -35,6 +36,10 @@ public class Controler_API {
 			scanner.close();
 			
 			System.out.println(json);
+			
+			
+			
+			
 		}
 		}catch(Exception e) {
 			e.printStackTrace();
