@@ -1,6 +1,6 @@
 # TESTE-CEP-Sele-o-DEV-Java-Jo-o-Gabriel-de-Oliveira-Ponciano
 
-## 👤Desenvolvedore
+## 👤Desenvolvedor
 
 | Nome                                              | GitHub                                           | Ativo | Atribuições                   |
 | ------------------------------------------------- | -------------------------------------------      | ----- | ----------------------------- |
